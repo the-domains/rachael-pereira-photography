@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-22T10:45:49.474Z'
-dateModified: '2015-11-22T10:45:45.515Z'
+datePublished: '2015-11-22T10:47:31.382Z'
+dateModified: '2015-11-22T10:47:23.303Z'
 title: Wedding at The Reid Rooms
 author: []
 sourcePath: _posts/2015-11-22-wedding-at-the-reid-rooms.md
