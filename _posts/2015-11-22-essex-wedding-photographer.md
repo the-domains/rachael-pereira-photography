@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.rachaelpereira.com'
-  name: Essex Wedding Photographer - Rachael Pereira - Southend
-  favicon: 'http://www.rachaelpereira.com/favicon.ico'
-  domain: www.rachaelpereira.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.rachaelpereira.com/'
+inLanguage: en
+starred: false
 keywords:
   - wedding
   - photographers
@@ -18,17 +17,20 @@ keywords:
   - friern
   - crondon
 description: "We are Rachael and Stephen, brother and sister, and Essex Wedding Photographer 's. We have been photographing weddings all over the UK since 2009. Our wedding photography style is informal and relaxed, capturing your wedding day as it unfolds. All the little details, the fun and emotion of your special day."
-inLanguage: en
+datePublished: '2015-11-22T11:01:18.571Z'
+dateModified: '2015-11-22T11:00:41.212Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.rachaelpereira.com/'
 title: Essex Wedding Photographer
-datePublished: '2015-11-22T11:00:24.886Z'
-dateModified: '2015-11-22T11:00:06.703Z'
 sourcePath: _posts/2015-11-22-essex-wedding-photographer.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Essex Wedding Photographer - Rachael Pereira - Southend
+  domain: www.rachaelpereira.com
+  url: 'http://www.rachaelpereira.com'
+  favicon: 'http://www.rachaelpereira.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
