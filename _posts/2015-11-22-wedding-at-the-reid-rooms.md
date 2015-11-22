@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-22T10:47:31.382Z'
-dateModified: '2015-11-22T10:47:23.303Z'
+datePublished: '2015-11-22T11:01:13.568Z'
+dateModified: '2015-11-22T11:00:51.516Z'
 title: Wedding at The Reid Rooms
 author: []
 sourcePath: _posts/2015-11-22-wedding-at-the-reid-rooms.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: wedding-at-the-reid-rooms/index.html
-_type: Article
+_type: WebPage
 
 ---
 Ashleigh and Chris Wedding
