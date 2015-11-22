@@ -1,0 +1,28 @@
+name: Rachael Pereira Photography
+favicon: null
+layout_spectrum: 0.14220396126620471
+typography_spectrum: 0.18945527635514736
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.14987843530252576
+  lightness: 0.8939683057833463
+  saturation: 0.97809431492351
+  rhythmicContrast: 0.34146146033890545
+purpose: []
